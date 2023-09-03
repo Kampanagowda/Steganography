@@ -1,6 +1,9 @@
 # Steganography
+
 Algorithm: AES-256, SHA-256, MD5,LSB
+
 This project focuses on hiding confidential text within digital images and aims to enhance data privacy (Cryptography).
+
 1.Run the encryptstego2.py file.
 2.the display page will ask you to uplaod an image.
 3.Enter the password and the text u want to hide.
